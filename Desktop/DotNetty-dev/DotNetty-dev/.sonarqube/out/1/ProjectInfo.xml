@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProjectInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.sonarsource.com/msbuild/integration/2015/1">
+  <ProjectName>DotNetty.Common</ProjectName>
+  <ProjectLanguage>C#</ProjectLanguage>
+  <ProjectType>Product</ProjectType>
+  <ProjectGuid>df4ff0d0-a5ce-471f-b946-538c28c21cbb</ProjectGuid>
+  <FullPath>C:\Users\husain.sardaria\Desktop\DotNetty-dev\DotNetty-dev\src\DotNetty.Common\DotNetty.Common.csproj</FullPath>
+  <IsExcluded>false</IsExcluded>
+  <AnalysisResults>
+    <AnalysisResult Id="FilesToAnalyze" Location="C:\Users\husain.sardaria\Desktop\DotNetty-dev\DotNetty-dev\.sonarqube\conf\1\FilesToAnalyze.txt" />
+  </AnalysisResults>
+  <AnalysisSettings>
+    <Property Name="sonar.cs.roslyn.reportFilePaths">C:\Users\husain.sardaria\Desktop\DotNetty-dev\DotNetty-dev\.sonarqube\out\1\Issues.json</Property>
+    <Property Name="sonar.cs.analyzer.projectOutPaths">C:\Users\husain.sardaria\Desktop\DotNetty-dev\DotNetty-dev\.sonarqube\out\1</Property>
+  </AnalysisSettings>
+  <Configuration>Debug</Configuration>
+  <Platform>AnyCPU</Platform>
+  <TargetFramework>net472</TargetFramework>
+</ProjectInfo>

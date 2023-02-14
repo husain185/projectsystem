@@ -1,0 +1,1 @@
+Roslyn version: 4.4.0.0Language version: CSharp9!Concurrent execution: enabled»¶File 'C:\Users\husain.sardaria\Desktop\DotNetty-dev\DotNetty-dev\examples\Examples.Common\obj\Debug\net5.0\.NETCoreApp,Version=v5.0.AssemblyAttributes.cs' was recognized as generated
